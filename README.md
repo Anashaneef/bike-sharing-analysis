@@ -62,4 +62,4 @@ streamlit run dashboard.py
 
 Or you can or you can directly visit this website
 
-#### [**Click here to view Bike Sharing Dashboard**](https://capstone-reccoffee.vercel.app)
+#### [**Click here to view Bike Sharing Dashboard**](https://capital-bike-share-analysis-anashaneef.streamlit.app/)
