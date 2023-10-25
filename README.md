@@ -1,4 +1,4 @@
-# Proyek Analisis Data : Bike Sharing Dataset
+# Data Analytics Project: Bike Sharing Dataset
 
 ## About Bike Sharing Dataset
 
@@ -28,7 +28,7 @@
 - registered: count of registered users
 - cnt: count of total rental bikes including both casual and registered
 
-## How to Run This Project?
+## How to Run This Project ?
 
 1. Clone this repository
 
