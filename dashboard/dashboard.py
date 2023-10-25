@@ -62,7 +62,7 @@ with st.sidebar:
 
     # Retrieve start_date & end_date from date_input
     start_date, end_date = st.date_input(
-        label='Rentang Waktu', min_value=min_date,
+        label='Range of Time', min_value=min_date,
         max_value=max_date,
         value=[min_date, max_date]
     )
